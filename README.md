@@ -17,7 +17,6 @@ The dataset used for this project is `housingdata.csv`. This dataset includes mu
 - `RAD`: Index of accessibility to radial highways.
 - `TAX`: Full-value property tax rate per $10,000.
 - `PTRATIO`: Pupil-teacher ratio by town.
-- `B`: 1000(Bk - 0.63)^2 where Bk is the proportion of Black residents by town.
 - `LSTAT`: Percentage of lower status of the population.
 - `MEDV`: Median value of owner-occupied homes in $1000s.
 
